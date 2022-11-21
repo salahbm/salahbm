@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salahbm
-- 👀 I’m interested in Blockchain, React, Swift, Full-stack. Java. Python, JavaScript ...
+- 👀 I’m interested in Blockchain, React, Swift, cryptocurrency, Java. Python, JavaScript ...
 - 🌱 I’m currently learning all those  
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me salahbm.001@gmail.com
