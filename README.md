@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salahbm
+- 👋 Hi, I’m Muhammad (aka @salahbm)
 - 👀 I’m interested in Mobile Applications, 3D Website , Web3 & etc ...
 - 🌱 I’m currently learning Mobile Native Langs, and Data Engineeing  
 - 💞️ I’m looking to collaborate on different projects
