@@ -15,7 +15,7 @@
 - 💬 Ask me about Next JS, Blockchain, 3D Website, Mobile Applicaton, SaaS  [etc...](https://github.com/salahbm?tab=repositories)
 
 
-- 📫 How to reach me **[Email](salahbm.001@gmail.com)**
+- 📫 How to reach me **salahbm.001@gmail.com**
 
 - 📄 Know about my experiences [Experience](https://salah-portfolio-alpha.vercel.app/)
 
