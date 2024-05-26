@@ -1,9 +1,11 @@
-
-
 <div align="center">
   <pre><code>Hello World 🌏, I'm Muhammad (aka Salah)</code></pre>
 </div>
+<h1/>
 <p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C328&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Muhammad;I+love+coding+and+more+coding+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Also%2C+enjoy+workout+%F0%9F%8F%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;Let's+connect+%F0%9F%94%97" alt="Typing SVG" /></a></p>
+
+
+
 <h1/>
 <h3 align="center">Full-Stack Developer | Enthusiast of Modern Web Technologies</h3>
 
