@@ -1,17 +1,21 @@
-<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C328&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Muhammad;I+love+coding+and+more+coding+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Also%2C+enjoy+workout+%F0%9F%8F%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;Let's+connect+%F0%9F%94%97" alt="Typing SVG" /></a></p>
 
-<p align="center">Hi 👋, I'm Muhammad</p>
+
+<div align="center">
+  <pre><code>Hello World 🌏, I'm Muhammad (aka Salah)</code></pre>
+</div>
+<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C328&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Muhammad;I+love+coding+and+more+coding+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Also%2C+enjoy+workout+%F0%9F%8F%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;Let's+connect+%F0%9F%94%97" alt="Typing SVG" /></a></p>
 <h1/>
 <h3 align="center">Full-Stack Developer | Enthusiast of Modern Web Technologies</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://salah-portfolio-alpha.vercel.app/](https://salah-portfolio-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://salah-portfolio-alpha.vercel.app/)
 
-- 💬 Ask me about **Next JS, Blockchain, 3D Website, Mobile Applicaton, SaaS etc...**
+- 💬 Ask me about Next JS, Blockchain, 3D Website, Mobile Applicaton, SaaS  [etc...](https://salah-portfolio-alpha.vercel.app/projects)
 
-- 📫 How to reach me **salahbm.001@gmail.com**
 
-- 📄 Know about my experiences [https://salah-portfolio-alpha.vercel.app/experience](https://salah-portfolio-alpha.vercel.app/experience)
+- 📫 How to reach me **[Email](salahbm.001@gmail.com)**
+
+- 📄 Know about my experiences [Experience](https://salah-portfolio-alpha.vercel.app/experience)
 
 - ⚡ Fun fact **I am GYM addict**
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahbm&show_icons=true&locale=en&layout=compact" alt="salahbm" /></p>
