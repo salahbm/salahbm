@@ -12,12 +12,12 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://salah-portfolio-alpha.vercel.app/)
 
-- 💬 Ask me about Next JS, Blockchain, 3D Website, Mobile Applicaton, SaaS  [etc...](https://salah-portfolio-alpha.vercel.app/projects)
+- 💬 Ask me about Next JS, Blockchain, 3D Website, Mobile Applicaton, SaaS  [etc...](https://github.com/salahbm?tab=repositories)
 
 
 - 📫 How to reach me **[Email](salahbm.001@gmail.com)**
 
-- 📄 Know about my experiences [Experience](https://salah-portfolio-alpha.vercel.app/experience)
+- 📄 Know about my experiences [Experience](https://salah-portfolio-alpha.vercel.app/)
 
 - ⚡ Fun fact **I am GYM addict**
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahbm&show_icons=true&locale=en&layout=compact" alt="salahbm" /></p>
