@@ -19,7 +19,7 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<p align="left"> 
+<p align="center"> 
   <!-- Existing tools -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/>
