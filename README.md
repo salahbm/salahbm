@@ -176,14 +176,14 @@
 ## 🧮 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahbm&theme=default" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahbm&theme=github" alt="GitHub Stats" />
 </div>
 
 ## ℹ️ More Info
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salahbm&theme=default" alt="Most Used Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salahbm&theme=github" alt="Most Used Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salahbm&theme=default" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salahbm&theme=github" alt="GitHub Stats" />
 </div>
