@@ -5,8 +5,6 @@
   <br/>
 <p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C328&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Muhammad;I+love+coding+and+more+coding+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Also%2C+enjoy+workout+%F0%9F%8F%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;Let's+connect+%F0%9F%94%97" alt="Typing SVG" /></a></p>
 
-
-
 <br/>
 <h3 align="center">Full-Stack Developer | Passionate About Modern Web, Mobile & Cloud</h3>
 
@@ -154,24 +152,38 @@
 </p>
 
 <br/>
-<br/>
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahbm&show_icons=true&locale=en&layout=compact" alt="salahbm" /></p>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahbm&label=Profile%20views&color=0e75b6&style=flat" alt="salahbm" /> </p>
+<h3 align="center">Connect with me 🔗 </h3>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salahbm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salahbm" height="35" width="35" /></a>
-<a href="https://instagram.com/im._.salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im._.salah" height="35" width="35" /></a>
-<a href="https://www.leetcode.com/salah_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salah___bm" height="35" width="35" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/salahbm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/im._.salah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/salah_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
+  </a>
 </p>
 
-<br/><br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salahbm&" alt="salahbm" /></p>
+## 🧮 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahbm&theme=default" alt="GitHub Stats" />
+</div>
+
+## ℹ️ More Info
+
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salahbm&theme=default" alt="Most Used Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salahbm&theme=default" alt="GitHub Stats" />
+</div>
