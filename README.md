@@ -15,8 +15,9 @@
 - ⚡ Fun fact: **Gym is my second home 🏋️**
 
 <br/>
-<h3 align="left">Languages and Tools:</h3>
-<br/>
+
+## ⚙️ Language Tools
+
 <p align="center"> 
   <!-- Existing tools -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
