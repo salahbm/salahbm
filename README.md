@@ -6,13 +6,15 @@
 <p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C328&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Muhammad;I+love+coding+and+more+coding+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Also%2C+enjoy+workout+%F0%9F%8F%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;Let's+connect+%F0%9F%94%97" alt="Typing SVG" /></a></p>
 
 <br/>
-<h3 align="center">Full-Stack Developer | Passionate About Modern Web, Mobile & Cloud</h3>
+<h3 align="center">Full-Stack Developer | Building Modern Web, Mobile & Cloud Solutions</h3>
 
-- 👨‍💻 Explore my work: [Portfolio](https://salah-portfolio-alpha.vercel.app/)  
-- 💬 Ask me about: Next.js, Blockchain, 3D Web, Mobile Apps, SaaS, and more [here](https://github.com/salahbm?tab=repositories)  
-- 📫 Reach out: **salahbm.001@gmail.com**  
-- 📄 View my experience: [Resume](https://salah-portfolio-alpha.vercel.app/)  
-- ⚡ Fun fact: **Gym is my second home 🏋️**
+- Explore my work: **[Portfolio](https://www.salahm.uz)**
+- Technical focus: Next.js, Blockchain, 3D Web, Mobile Apps, SaaS, Cloud and many more
+- View my projects: **[GitHub Repositories](https://github.com/salahbm?tab=repositories)**
+- Contact: **salahbm.001@gmail.com** or **salahbm.dev@gmail.com**
+- Resume: **[View Here](https://www.salahm.uz/work)**
+- Fun fact: The gym is my second home
+
 
 <br/>
 
