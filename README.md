@@ -154,25 +154,6 @@
 
 </p>
 
-<br/>
-
-
-
-<h3 align="center">Connect with me 🔗 </h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/salahbm" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/im._.salah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/salah_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
-  </a>
-</p>
 
 <br/>
 
